@@ -1,4 +1,4 @@
-[![MasterHead]('header.png')]https://github.com/SenalKaranda
+![MasterHead](https://github.com/SenalKaranda/SenalKaranda/blob/main/header.png?raw=true)
 
 <!--
 **SenalKaranda/SenalKaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
