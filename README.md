@@ -21,7 +21,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://play-lh.googleusercontent.com/IeNJWoKYx1waOhfWF6TiuSiWBLfqLb18lmZYXSgsH1fvb8v1IYiZr5aYWe0Gxu-pVZX3" align="right" height="" width="100%" />
+<img src="https://github.com/SenalKaranda/SenalKaranda/blob/main/headshot.png?raw=true" align="right" width="100%" style="border-radius: 50%;" />
 
 
 </td></tr></table>  
