@@ -185,4 +185,4 @@
 
 <!-- SHIELDS.IO: https://shields.io/ -->
 
-<!-- HUGE RESOURCE LIST: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- HUGE RESOURCE LIST: https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools -->
