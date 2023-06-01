@@ -136,7 +136,6 @@
 <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" height="25" /></a> 
 
 </div>
-<br />
 
 ----
 <!--          HELPFUL LINKS FOR ME          -->
