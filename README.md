@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/SenalKaranda/SenalKaranda/blob/main/header.png?raw=true)
-
 ##
 <table><tr><td valign="top" width="50%">
 
