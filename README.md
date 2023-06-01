@@ -20,9 +20,8 @@
 <br/>  
 
 ## Statistics 📈  
-<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&count_private=false&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&hide_border=false&layout=compact" align="right" />
-<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&count_private=false&hide_border=true" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&hide_border=false&layout=compact" align="center" />
+
 
 ## Technical Skills 🧑🏾‍💻  
 <div align="left">
