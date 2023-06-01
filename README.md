@@ -1,4 +1,10 @@
-## Senal Karanda
+<h2>Senal Karanda</h2> 
+<div align="center">
+  <a href="https://github.com/SenalKaranda#about-me"><img src="https://img.shields.io/badge/Jump-About%20Me-informational"/></a>
+  <a href="https://github.com/SenalKaranda#statistics-"><img src="https://img.shields.io/badge/Jump-Statistics-informational"/></a>
+  <a href="https://github.com/SenalKaranda#technical-skills-"><img src="https://img.shields.io/badge/Jump-Technical%20Skills-informational"/></a>
+  <a href="https://github.com/SenalKaranda#top-10-repos-"><img src="https://img.shields.io/badge/Jump-Top%20Ten%20Repos-informational"/></a>
+</div> <br>
 
 ![MasterHead](./header.png)
 <table>
@@ -48,7 +54,7 @@
 </div>
 
 ## Statistics 📈  
-<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&theme=tokyonight&count_private=false&rank_icon=github&hide_border=false" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=350" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&theme=tokyonight&count_private=false&rank_icon=github&hide_border=false" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=350" align="center"/>
 
 ## Technical Skills 🧑🏾‍💻  
 <div align="left">
@@ -162,7 +168,7 @@
   <a href="https://github.com/SenalKaranda/UE5-Side_Runner" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-Side_Runner&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/SenalKaranda/UE5-Asteroids" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-Asteroids&theme=tokyonight" alt=""/></a>
 </div> <br>
 
-<div align="right"><a href="https://github.com/SenalKaranda#senal-karanda"><img src="https://img.shields.io/badge/Jump-Top%20of%20Page-brightgreen"/></a></div>
+<div align="right"><a href="https://github.com/SenalKaranda#senal-karanda"><img src="https://img.shields.io/badge/Jump-Top%20of%20Page-informational"/></a></div>
 
 ----
 <!--          HELPFUL LINKS FOR ME          -->
