@@ -7,9 +7,9 @@
         <a href="https://linkedin.com/in/Skaranda" target="_blank"> <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> </a>
         <a href="https://instagram.com/Senal.Karanda" target="_blank"> <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> </a>  
       </div>    
-      <br> <br> 
+      <br/> <br/> 
       <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=rw5sjqhcifjmchy2lyzjne6nh&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /> </div>  
-      <br> <br>
+      <br/> <br/>
       <div align="center"> <a href="https://www.edx.org/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" alt="edX" height="100" /> </a> </div>
     </td>
     <td valign="top" width="50%">
@@ -22,12 +22,11 @@
 ## Statistics 📈  
 <img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&theme=tokyonight&count_private=false&rank_icon=github&hide_border=false" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=350" align="center" />
 
-
 ## Technical Skills 🧑🏾‍💻  
 <div align="left">
   <details> 
     <summary>💻 IDEs/Editors and Version Control 🕓</summary>
-    <br>
+    <br/>
     <a href="https://www.eclipse.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25" /></a>
@@ -39,7 +38,7 @@
 
   <details>
     <summary>📋 Languages</summary>
-    <br>
+    <br/>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25" /></a> 
@@ -55,7 +54,7 @@
   </details>
   <details>
     <summary>🎛️ Operating Systems</summary>
-    <br>
+    <br/>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" alt="ChromeOS" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" height="25" /></a> 
@@ -66,7 +65,7 @@
   </details>
   <details>
     <summary>🗄️ Servers and Databases 💾</summary>
-    <br>
+    <br/>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="25" /></a> 
@@ -76,7 +75,7 @@
   </details>
   <details> 
     <summary>📚 Frameworks, Platforms and Libraries</summary>
-    <br>
+    <br/>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" height="25" /></a> 
@@ -87,7 +86,7 @@
   </details>
   <details>
     <summary>🎮 Gaming</summary>
-    <br>
+    <br/>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io" height="25" /></a> 
@@ -97,14 +96,14 @@
   </details>
   <details>
     <summary>🤖 Artificial Intelligence and Bots</summary>
-    <br>
+    <br/>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white" alt="Alexa" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white" alt="Google Assistant" height="25" /></a>
   </details>
   <details>  
     <summary>☁️ Hosting/SaaS</summary>
-    <br>
+    <br/>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="Digital Ocean" height="25" /></a> 
@@ -127,10 +126,17 @@
   </details>
 </div>
 
+## Most Important Repos
+<div align="center">
+   <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-ProceduralTerrain_3D&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-ProceduralTerrain_2D&theme=tokyonight" alt=""/></a> <br/> <br/>
+  <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=HTML-KarandaGram&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=HTML-KarandaGram_Poster&theme=tokyonight" alt=""/></a> <br/> <br/>
+  <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=HTML-Dynamic_Portfolio&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=PY-Teaching_Utilities&theme=tokyonight" alt=""/></a> <br/> <br/>
+  <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-Side_Runner&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-Asteroids&theme=tokyonight" alt=""/></a>
+</div>
 ----
 <!--          HELPFUL LINKS FOR ME          -->
 
-<!-- BADGE FORMAT: <a href="" target="_blank"><img style="margin: 10px" src="" alt="" height="25" /></a> -->
+<!-- BADGE FORMAT: <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats" alt="" height="25" /></a> -->
 
 <!--- TOP LANGUAGES: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda)](https://github.com/anuraghazra/github-readme-stats) -->
 
