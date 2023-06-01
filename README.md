@@ -1,42 +1,28 @@
 ![MasterHead](./header.png)
-##
-<table><tr><td valign="center" width="50%">
-  <div align="center">
-    <a href="https://twitter.com/Senal_Karanda" target="_blank">
-      <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/Skaranda" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/Senal.Karanda" target="_blank">
-      <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-    </a>  
-  </div>    
-  <br>
-  <br> 
-  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rw5sjqhcifjmchy2lyzjne6nh&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-  <br>
-  <br>
-  <div align="center"><a href="https://www.edx.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" alt="edX" height="50" /></a>  </div>
-</td>
-<td valign="top" width="50%">
-  <img src="./headshot.jpg" align="right" width="100%"/>
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="center" width="50%">
+      <div align="center">
+        <a href="https://twitter.com/Senal_Karanda" target="_blank"> <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> </a>
+        <a href="https://linkedin.com/in/Skaranda" target="_blank"> <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> </a>
+        <a href="https://instagram.com/Senal.Karanda" target="_blank"> <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> </a>  
+      </div>    
+      <br> <br> 
+      <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=rw5sjqhcifjmchy2lyzjne6nh&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /> </div>  
+      <br> <br>
+      <div align="center"> <a href="https://www.edx.org/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" alt="edX" height="50" /> </a> </div>
+    </td>
+    <td valign="top" width="50%">
+      <img src="./headshot.jpg" align="right" width="100%"/>
+    </td>
+  </tr>
+</table>  
 <br/>  
 
 ## Statistics 📈  
 <img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&count_private=false&hide_border=true" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&hide_border=false&layout=compact" align="right" />
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/>
-<br/> 
-<br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 ## Technical Skills 🧑🏾‍💻  
 <div align="left">
