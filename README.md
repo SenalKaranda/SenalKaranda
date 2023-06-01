@@ -60,7 +60,8 @@
 <br/> 
 <br/> 
 <br/>
-
+<br/> 
+<br/>
 
 ## Technical Skills 🧑🏾‍💻  
 <div align="center">  
