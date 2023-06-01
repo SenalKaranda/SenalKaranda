@@ -54,7 +54,7 @@
 </div>
 
 ## Statistics 📈  
-<img src="https://readme-stats-vercel-senalkaranda.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=350" align="center"/>
+<img src="https://readme-stats-vercel-senalkaranda.vercel.app/api?username=SenalKaranda&show_icons=true&theme=tokyonight&count_private=false&rank_icon=github&hide_border=false" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://readme-stats-vercel-senalkaranda.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=350" align="center"/>
 
 ## Technical Skills 🧑🏾‍💻  
 <div align="left">
