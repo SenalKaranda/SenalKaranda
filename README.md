@@ -20,7 +20,7 @@
 <br/>  
 
 ## Statistics 📈  
-<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&theme=tokyonight&count_private=false&rank_icon=github&hide_border=false" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=500" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&theme=tokyonight&count_private=false&rank_icon=github&hide_border=false" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=400" align="center" />
 
 
 ## Technical Skills 🧑🏾‍💻  
