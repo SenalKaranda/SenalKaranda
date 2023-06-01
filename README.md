@@ -31,7 +31,9 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/TestScreen_square.svg" align="left" height="400" width="400" />  
+<div align="right">
+<img src="https://play-lh.googleusercontent.com/IeNJWoKYx1waOhfWF6TiuSiWBLfqLb18lmZYXSgsH1fvb8v1IYiZr5aYWe0Gxu-pVZX3" align="right" height="" width="100%" />
+</div>  
 
 
 </td></tr></table>  
@@ -40,17 +42,24 @@
 
 
 ## Statistics 📈  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&count_private=false&hide_border=true" align="left" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&hide_border=true&layout=compact" align="left" />
 
-</td></tr></table>  
 
-<br/>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&hide_border=false&layout=compact" align="right" /></div>
+
+
+
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/>
 
 
 ## Technical Skills 🧑🏾‍💻  
