@@ -162,7 +162,7 @@
   <a href="https://github.com/SenalKaranda/UE5-Side_Runner" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-Side_Runner&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/SenalKaranda/UE5-Asteroids" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-Asteroids&theme=tokyonight" alt=""/></a>
 </div>
 
-<a href="https://github.com/SenalKaranda#senal-karanda"><h2>Back to Top</h2></a>
+<a href="https://github.com/SenalKaranda#senal-karanda">Back to Top</a>
 
 ----
 <!--          HELPFUL LINKS FOR ME          -->
