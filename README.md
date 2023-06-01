@@ -27,6 +27,7 @@
 <div align="left">
   <details> 
     <summary>💻 IDEs/Editors and Version Control 🕓</summary>
+    <br>
     <a href="https://www.eclipse.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25" /></a>
@@ -38,6 +39,7 @@
 
   <details>
     <summary>📋 Languages</summary>
+    <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25" /></a> 
@@ -53,6 +55,7 @@
   </details>
   <details>
     <summary>🎛️ Operating Systems</summary>
+    <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" alt="ChromeOS" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" height="25" /></a> 
@@ -63,6 +66,7 @@
   </details>
   <details>
     <summary>🗄️ Servers and Databases 💾</summary>
+    <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="25" /></a> 
@@ -72,6 +76,7 @@
   </details>
   <details> 
     <summary>📚 Frameworks, Platforms and Libraries</summary>
+    <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" height="25" /></a> 
@@ -82,6 +87,7 @@
   </details>
   <details>
     <summary>🎮 Gaming</summary>
+    <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io" height="25" /></a> 
@@ -91,12 +97,14 @@
   </details>
   <details>
     <summary>🤖 Artificial Intelligence and Bots</summary>
+    <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white" alt="Alexa" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white" alt="Google Assistant" height="25" /></a>
   </details>
   <details>  
     <summary>☁️ Hosting/SaaS</summary>
+    <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="Digital Ocean" height="25" /></a> 
@@ -105,6 +113,7 @@
   </details>
   <details>
     <summary>🥅 Other</summary>
+    <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25" /></a>
