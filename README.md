@@ -20,3 +20,6 @@
 
 <!-- Shields.io -->
 <!-- https://shields.io/ -->
+
+<!-- Huge Resource List -->
+<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
