@@ -33,15 +33,15 @@
   <!-- Contact info.-->
   <details open>
     <summary><h4>🔔 Let's Talk: How to Get in Contact</h4></summary>
-    <a href="mailto:senalkaranda@gmail.com"><img src="https://img.shields.io/badge/E--Mail-senalkaranda%40gmail.com-red"/></a>
-    <a href="https://linkedin.com/in/Skaranda"><img src="https://img.shields.io/badge/LinkedIn-https%3A%2F%2Flinkedin.com%2Fin%2FSkaranda-blue"/></a>
+    <a href="mailto:senalkaranda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/E--Mail-senalkaranda%40gmail.com-red"/></a>
+    <a href="https://linkedin.com/in/Skaranda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-https%3A%2F%2Flinkedin.com%2Fin%2FSkaranda-blue"/></a>
   </details>
   <!-- My Websites-->
   <details open>
     <summary><h4>🌐 Online Hub: Explore My Digital Presence</h4></summary>
-    <a href="https://senal.us"><img src="https://img.shields.io/website?label=KarandaGram&url=https%3A%2F%2Fsenal.us"/></a>
-    <a href="https://catdadstudios.us"><img src="https://img.shields.io/website?label=CatDadStudios&url=https%3A%2F%2Fcatdadstudios.us"/></a>
-    <a href="https://portfolio-skaranda.web.app/"><img src="https://img.shields.io/website?label=Dynamic%20Portfolio&url=https%3A%2F%2Fportfolio-skaranda.web.app%2F"/></a>
+    <a href="https://senal.us" target="_blank"><img src="https://img.shields.io/website?label=KarandaGram&url=https%3A%2F%2Fsenal.us"/></a>
+    <a href="https://catdadstudios.us" target="_blank"><img src="https://img.shields.io/website?label=CatDadStudios&url=https%3A%2F%2Fcatdadstudios.us"/></a>
+    <a href="https://portfolio-skaranda.web.app/" target="_blank"><img src="https://img.shields.io/website?label=Dynamic%20Portfolio&url=https%3A%2F%2Fportfolio-skaranda.web.app%2F"/></a>
   </details>
 </div>
 
@@ -53,13 +53,13 @@
   <details> 
     <summary>💻 IDEs/Editors and Version Control 🕓</summary>
     <br/>
-    <a href="https://www.eclipse.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" height="25" /></a> 
+    <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25" /></a>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="25" /></a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" height="25" /></a> 
-    <a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="25" /></a> 
-    <a href="https://visualstudio.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" height="25" /></a> 
+    <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" height="25" /></a> 
+    <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="25" /></a> 
+    <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" height="25" /></a> 
   </details>
 
   <details>
