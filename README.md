@@ -19,6 +19,32 @@
 </table>  
 <br/>  
 
+## About Me 📖
+<div align="left">
+  <!-- My current projects/ventures in rapidfire format.-->
+  <details open>
+    <summary><h4>💼 In the Lab: A Sneak Peek into My Current Endeavors</h4></summary>
+    <ul> 
+      <li>Working as a TA for a CyberSecurity bootcamp with edX.</li>
+      <li>Buffing up my dev portfolio with a variety of <i>C++</i>, <i>Java</i>, & <i>Python</i> projects.</li>
+      <li>Looking for work in <i>Software Development</i> or <i>Information Security</i></li>
+    </ul>
+  </details>
+  <!-- Contact info.-->
+  <details open>
+    <summary><h4>🔔 Let's Talk: How to Get in Contact</h4></summary>
+    <a href="mailto:senalkaranda@gmail.com"><img src="https://img.shields.io/badge/E--Mail-senalkaranda%40gmail.com-red"/></a>
+    <a href="https://linkedin.com/in/Skaranda"><img src="https://img.shields.io/badge/LinkedIn-https%3A%2F%2Flinkedin.com%2Fin%2FSkaranda-blue"/></a>
+  </details>
+  <!-- My Websites-->
+  <details open>
+    <summary><h4>🌐 Online Hub: Explore My Digital Presence</h4></summary>
+    <a href="https://senal.us"><img src="https://img.shields.io/website?label=KarandaGram&url=https%3A%2F%2Fsenal.us"/></a>
+    <a href="https://catdadstudios.us"><img src="https://img.shields.io/website?label=CatDadStudios&url=https%3A%2F%2Fcatdadstudios.us"/></a>
+    <a href="https://portfolio-skaranda.web.app/"><img src="https://img.shields.io/website?label=Dynamic%20Portfolio&url=https%3A%2F%2Fportfolio-skaranda.web.app%2F"/></a>
+  </details>
+</div>
+
 ## Statistics 📈  
 <img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&theme=tokyonight&count_private=false&rank_icon=github&hide_border=false" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=350" align="center" />
 
@@ -111,7 +137,7 @@
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" height="25" /></a> 
   </details>
   <details>
-    <summary>🥅 Other</summary>
+    <summary>🔍 Other</summary>
     <br>
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="25" /></a> 
     <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" height="25" /></a>
@@ -126,7 +152,7 @@
   </details>
 </div>
 
-## Most Important Repos
+## Top 10 Repos ⚡
 <div align="center">
    <a href="https://github.com/SenalKaranda/UE5-ProceduralTerrain_3D" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-ProceduralTerrain_3D&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/SenalKaranda/UE5-ProceduralTerrain_2D" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-ProceduralTerrain_2D&theme=tokyonight" alt=""/></a> <br/> <br/>
   <a href="https://github.com/SenalKaranda/HTML-KarandaGram" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=HTML-KarandaGram&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/SenalKaranda/HTML-KarandaGram_Poster" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=HTML-KarandaGram_Poster&theme=tokyonight" alt=""/></a> <br/> <br/>
@@ -136,6 +162,8 @@
 
 ----
 <!--          HELPFUL LINKS FOR ME          -->
+
+<!-- -->
 
 <!-- BADGE FORMAT: <a href="" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats" alt="" height="25" /></a> -->
 
