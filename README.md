@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/SenalKaranda/SenalKaranda/blob/main/header.png?raw=true)
 ##
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 <div align="center">
 <a href="https://twitter.com/SenalKaranda" target="_blank">
@@ -14,11 +14,9 @@
 </a>  
 </div>  
   
-
 <br>
 <br>  
   
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rw5sjqhcifjmchy2lyzjne6nh&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 
 </td><td valign="top" width="50%">
