@@ -10,7 +10,7 @@
       <br> <br> 
       <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=rw5sjqhcifjmchy2lyzjne6nh&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /> </div>  
       <br> <br>
-      <div align="center"> <a href="https://www.edx.org/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" alt="edX" height="50" /> </a> </div>
+      <div align="center"> <a href="https://www.edx.org/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" alt="edX" height="100" /> </a> </div>
     </td>
     <td valign="top" width="50%">
       <img src="./headshot.jpg" align="right" width="100%"/>
@@ -20,7 +20,7 @@
 <br/>  
 
 ## Statistics 📈  
-<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&count_private=false&hide_border=true" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&hide_border=false&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=SenalKaranda&show_icons=true&theme=tokyonight&count_private=false&rank_icon=github&hide_border=false" align="center" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenalKaranda&theme=tokyonight&langs_count=8&hide_border=false&layout=compact&card_width=500" align="center" />
 
 
 ## Technical Skills 🧑🏾‍💻  
