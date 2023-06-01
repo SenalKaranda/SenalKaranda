@@ -160,9 +160,9 @@
   <a href="https://github.com/SenalKaranda/HTML-KarandaGram" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=HTML-KarandaGram&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/SenalKaranda/HTML-KarandaGram_Poster" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=HTML-KarandaGram_Poster&theme=tokyonight" alt=""/></a> <br/> <br/>
   <a href="https://github.com/SenalKaranda/HTML-Dynamic_Portfolio" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=HTML-Dynamic_Portfolio&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/SenalKaranda/PY-Teaching_Utilities" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=PY-Teaching_Utilities&theme=tokyonight" alt=""/></a> <br/> <br/>
   <a href="https://github.com/SenalKaranda/UE5-Side_Runner" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-Side_Runner&theme=tokyonight" alt=""/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/SenalKaranda/UE5-Asteroids" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=SenalKaranda&repo=UE5-Asteroids&theme=tokyonight" alt=""/></a>
-</div>
+</div> <br>
 
-<a href="https://github.com/SenalKaranda#senal-karanda">Back to Top</a>
+<div align="right"><a href="https://github.com/SenalKaranda#senal-karanda"><img src="https://img.shields.io/badge/Jump-Top%20of%20Page-brightgreen"/></a></div>
 
 ----
 <!--          HELPFUL LINKS FOR ME          -->
