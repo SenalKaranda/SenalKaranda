@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/SenalKaranda/SenalKaranda/blob/main/header.png?raw=true)
+![MasterHead](./header.png)
 ##
 <table><tr><td valign="center" width="50%">
-<link rel="stylesheet" type="text/css" href="styles.css">
+
 <div align="center">
 <a href="https://twitter.com/SenalKaranda" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -21,7 +21,7 @@
 
 </td><td valign="top" width="50%">
 
-<img class="rounded" src="https://github.com/SenalKaranda/SenalKaranda/blob/main/headshot.jpg?raw=true" align="right" width="100%"/>
+<img src="./headshot.jpg" align="right" width="100%"/>
 
 
 </td></tr></table>  
