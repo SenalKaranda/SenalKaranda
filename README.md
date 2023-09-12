@@ -34,8 +34,8 @@
     <summary><h4>💼 In the Lab: A Sneak Peek into My Current Endeavors</h4></summary>
     <ul> 
       <li>Working as a TA for a CyberSecurity bootcamp with edX.</li>
+      <li>Working as an IT Technician for a Nonprofit Organization.</li>
       <li>Buffing up my dev portfolio with a variety of <i>C++</i>, <i>Java</i>, & <i>Python</i> projects.</li>
-      <li>Looking for work in <i>Software Development</i> or <i>Information Security</i></li>
     </ul>
   </details>
   <!-- Contact info.-->
